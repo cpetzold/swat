@@ -1,0 +1,9 @@
+# Swat
+## Ideas
+### Gameplay
+	* Can collect powerups to make your swatter temporarily better
+		* Electric swatter (crazy tesla-coil like effects)
+		* 
+### Artwork
+	* Game splash screen is close-up of a fly's eye, with the reflection of the fly swatter refracted: http://3.bp.blogspot.com/-BBbYYgKC6JE/UPCiMwq-1dI/AAAAAAAAATE/1TsFMTfl0E4/s1600/Blog_13-01-04_A.jpg
+	

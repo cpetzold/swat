@@ -1,0 +1,11 @@
+spritesheet.png
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+wire-swatter
+  rotate: false
+  xy: 2, 2
+  size: 32, 98
+  orig: 32, 98
+  offset: 0, 0
+  index: -1
